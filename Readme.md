@@ -1,4 +1,4 @@
-# [Refer to New Readme1.md for elaborate instruction for loading FASTA files into R]
+# [Refer to New Readme1.md for elaborate instructions for loading FASTA files into R]
 # Mutual Infomation Calculation for SELEX
 <br><br><br>
 
